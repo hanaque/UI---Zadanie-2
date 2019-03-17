@@ -1,0 +1,66 @@
+[
+        {
+          "color": "cervene",
+          "size": "2",
+          "X": "3",
+          "Y": "2",
+          "side": "h"
+        },
+        {
+          "color": "oranzove",
+          "size": "2",
+          "X": "1",
+          "Y": "1",
+          "side": "h"
+        },
+        {
+          "color": "zlte",
+          "size": "3",
+          "X": "2",
+          "Y": "1",
+          "side": "v"
+        },
+        {
+          "color": "fialove",
+          "size": "2",
+          "X": "5",
+          "Y": "1",
+          "side": "v"
+        },
+        {
+          "color": "zelene",
+          "size": "3",
+          "X": "1",
+          "Y": "4",
+          "side": "v"
+        },
+		{
+          "color": "cierne",
+          "size": "3",
+          "X": "4",
+          "Y": "4",
+          "side": "v"
+        },
+        {
+          "color": "svetlomodre",
+          "size": "2",
+          "X": "6",
+          "Y": "5",
+          "side": "h"
+        },
+        {
+          "color": "sive",
+          "size": "2",
+          "X": "5",
+          "Y": "5",
+          "side": "h"
+        },
+        {
+          "color": "tmavomodre",
+          "size": "2",
+          "X": "1",
+          "Y": "5",
+          "side": "h"
+        }
+]
+

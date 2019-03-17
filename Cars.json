@@ -1,0 +1,38 @@
+[
+        {
+          "color": "cervene",
+          "size": "2",
+          "X": "2",
+          "Y": "1",
+          "side": "h"
+        },
+        {
+          "color": "zlte",
+          "size": "3",
+          "X": "3",
+          "Y": "2",
+          "side": "h"
+        },
+        {
+          "color": "fialove",
+          "size": "2",
+          "X": "3",
+          "Y": "1",
+          "side": "v"
+        },
+        {
+          "color": "oranzove",
+          "size": "3",
+          "X": "4",
+          "Y": "2",
+          "side": "h"
+        },
+        {
+          "color": "modre",
+          "size": "2",
+          "X": "1",
+          "Y": "4",
+          "side": "v"
+        }
+]
+
